@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ##<!--
-💻 Selamat datang di Daget!
+💻 Selamat datang di link Daget dan mining!
 
-Daget adalah platform seru untuk shortlink dan mining, dengan berbagai pilihan:
+Daget dan mining adalah platform seru untuk shortlink dan mining, dengan berbagai pilihan:
 - Shortlink kecil atau besar – fleksibel sesuai kebutuhan.
 - Mining – bisa gratis atau berbayar.
 - PUM besar – untuk yang sabar tapi mau hasil cepat 😆.
